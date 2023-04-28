@@ -10,3 +10,11 @@ torch
 sentencepiece
 pexpect
 tiktoken
+qdrant_client
+openai
+Flask
+Flask-Login
+Flask-SocketIO
+Flask-WTF
+WTForms
+Werkzeug
